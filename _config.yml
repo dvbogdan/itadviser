@@ -1,12 +1,12 @@
 # Site settings
-title: "A blog about lorem ipsum dolor sit amet"
-description: "A blog about lorem ipsum dolor sit amet"
+title: "Software Development | Blockchain | Data Bases"
+description: "Professional Web Development, Social media marketing, Blockchain Projects and Data Base Development by itAdviser."
 baseurl: "/itadviser" # the subpath of your site, e.g. /blog
 url: "dvbogdan.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: "itAdviser"
-user_description: "Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS."
+user_description: "itAdviser web development Studio is an assortment of services including consultation, analytics, the creation of unique design solutions, the formation of optimal structure and content fulfilling on websites. With the experienced and competent web developers, itAdviser is more than just a web development company"
 user_title: "Software Developing"
 email: admin@itadviser.org
 twitter_username: lorem_ipsum
