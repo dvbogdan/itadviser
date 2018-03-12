@@ -9,15 +9,16 @@
 
 
 .tech{
-  padding: 15px;
+  padding: 25px;
   margin: 1%;
-  border: 1px solid #979797;
+  border: 1px solid rgba(151, 151, 151, 0.4);
   width: 30.33%;
   display: inline-block;
   box-sizing: border-box;
   vertical-align: top;
-  min-height:450px;
+  min-height: 467px;
   box-sizing: border-box;
+  border-bottom: none;
   &.tech-1{
     border-bottom: 4px solid #83D888;
   }
@@ -36,10 +37,13 @@
   &.tech-6{
     border-bottom: 4px solid #E91E63;
   }
+  p{
+    color: rgba(0,0,0,.6);
+  }
 }
 
 .tech-ico{
-  margin: 60px 0 40px 0;
+  margin: 46px 0 28px 0;
 }
 .tech-title{
   margin: 0 0 25px 0;
@@ -67,4 +71,10 @@
 .user-details {
   text-align: center;
   margin: 5px auto;
+  p{
+    max-width: 620px;
+    display: block;
+    margin: auto;
+    margin-bottom: 40px;
+  }
 }
