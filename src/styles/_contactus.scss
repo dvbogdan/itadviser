@@ -3,6 +3,7 @@
   width: 90%;
   margin: 0 auto;
   max-width: 960px;
+  overflow: hidden;
   @media only screen and (min-width: $cut) {
     width: 80%;
   }
@@ -16,7 +17,6 @@
 .form-wrap{
   float: left;
   width: 66%;
-  margin-bottom: 25px;
   form{
     input[type="text"]{
       font-family: 'Montserrat',sans-serif;
@@ -76,6 +76,7 @@
 @media only screen and (max-width: 780px) {
   .form-wrap,.form-txt{
     width: 100%;
+    margin-bottom: 25px;
   }
 }
 
