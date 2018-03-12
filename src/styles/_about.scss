@@ -8,22 +8,58 @@
 }
 
 .tech {
-  margin: 10px;
+  padding: 15px;
+  margin: 1%;
+  border: 1px solid #979797;
+  width: 30.33%;
+  display: inline-block;
+  box-sizing: border-box;
+  vertical-align: top;
+  min-height:450px;
+  box-sizing: border-box;
+  &.tech-1{
+    border-bottom: 4px solid #83D888;
+  }
+  &.tech-2{
+    border-bottom: 4px solid #FA7866;
+  }
+  &.tech-3{
+    border-bottom: 4px solid #3F51B5;
+  }
+  &.tech-4{
+    border-bottom: 4px solid #FF9800;
+  }
+  &.tech-5{
+    border-bottom: 4px solid #2196F3;
+  }
+  &.tech-6{
+    border-bottom: 4px solid #E91E63;
+  }
+}
+
+.tech-ico{
+  margin: 60px 0 40px 0;
+}
+.tech-title{
+  margin: 0 0 25px 0;
+  padding: 0;
 }
 
 .user {
   text-align: center;
-  font-size: 60px;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
+  float:left;
+  width: 100%;
   p {
-    font-size: 16px;
+    font-size: 14px;
   }
   @media only screen and (min-width: $cut) {
-    flex-wrap: nowrap;
-    font-size: 75px;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 980px) {
+  .tech{
+    width: 98%;
   }
 }
 
