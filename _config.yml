@@ -1,14 +1,14 @@
 # Site settings
 title: "Software Development | Blockchain | Data Bases"
-description: "Professional Web Development, Social media marketing, Blockchain Projects and Data Base Development by itAdviser."
+description: "Professional Web Development, Social media marketing, Blockchain Projects and Data Base Development by IronGenius."
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "itadviser.org" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: "itAdviser"
-user_description: "itAdviser is the IT development company that provides various IT related services such as IT Consulting, analytics, UI/UX design solutions, project management, web and application development. Our experienced and skilled team of web developers and engineers deliver best quality products and services to the clients."
+username: "IronGenius"
+user_description: "IronGenius is the IT development company that provides various IT related services such as IT Consulting, analytics, UI/UX design solutions, project management, web and application development. Our experienced and skilled team of web developers and engineers deliver best quality products and services to the clients."
 user_title: "Software Development"
-email: admin@itadviser.org
+email: info@irongenius.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
